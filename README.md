@@ -1,6 +1,7 @@
 ## Project Name: Rokomari website test management with Agile methodology using Jira tool
 
 Rokomari Website Link : [Rokomari website](https://www.rokomari.com/book).
+Agile Project Link : - [project1012](https://project1210.atlassian.net/jira/software/projects/PROJ/boards/1)
 
 ## Basic Project Structure Setup Details
 
